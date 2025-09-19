@@ -1,0 +1,2 @@
+# chat_with_web
+Interactively chat with the content of any website using Gemini Pro and LangChain. This app loads website data, processes it into searchable chunks, and lets you ask questions or have conversations about the site’s content—all through a simple Streamlit interface. Powered by advanced retrieval and conversational AI, it’s ideal for exploring and understanding web pages in a conversational way.
